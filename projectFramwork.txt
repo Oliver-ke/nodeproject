@@ -22,3 +22,5 @@ apollo: a library that enables graphql and react communicate(bind graphql to rea
 apollo-boost: Package containing everything you need to set up Apollo Client
 react-apollo: View layer integration for React
 graphql: Also parses your GraphQL queries
+
+And many other third party library which are shown in the packags.json file
