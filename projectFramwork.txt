@@ -1,0 +1,24 @@
+
+dev is divided into two 
+--server
+--cliant
+
+for the server side the following implimentation was used
+-node: js server runtime
+-express: asyn js thread library for node
+-lodah: used for sorting local list during testing
+-graphql: the graphql library
+-graphiql: tool for doing initial front end test
+-graphql_express: this library locks graphql to express
+-mongoose: mongodb library that anables us communicate with claud
+-mlab: an online claud storage for our mongodb instance where data is been stored
+
+---more of dependencies used can be seen in packages.json file in server directory
+
+for cliant side the following implimentation was used
+-creat-react-app: a js library for making web application
+apollo: a library that enables graphql and react communicate(bind graphql to react)
+
+apollo-boost: Package containing everything you need to set up Apollo Client
+react-apollo: View layer integration for React
+graphql: Also parses your GraphQL queries
